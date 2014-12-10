@@ -5,6 +5,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MS10-058-Analysis", "MS10-0
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MS10-058-Crash", "MS10-058-Crash\MS10-058-Crash.vcxproj", "{C05910BA-B786-461A-AF66-59C3F5CD2E6C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MS10-058-Spray", "MS10-058-Spray\MS10-058-Spray.vcxproj", "{2E230B9F-A5F6-4A56-A0A4-06E8D84502D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -19,6 +21,10 @@ Global
 		{C05910BA-B786-461A-AF66-59C3F5CD2E6C}.Debug|Win32.Build.0 = Debug|Win32
 		{C05910BA-B786-461A-AF66-59C3F5CD2E6C}.Release|Win32.ActiveCfg = Release|Win32
 		{C05910BA-B786-461A-AF66-59C3F5CD2E6C}.Release|Win32.Build.0 = Release|Win32
+		{2E230B9F-A5F6-4A56-A0A4-06E8D84502D8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2E230B9F-A5F6-4A56-A0A4-06E8D84502D8}.Debug|Win32.Build.0 = Debug|Win32
+		{2E230B9F-A5F6-4A56-A0A4-06E8D84502D8}.Release|Win32.ActiveCfg = Release|Win32
+		{2E230B9F-A5F6-4A56-A0A4-06E8D84502D8}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
